@@ -1,0 +1,52 @@
+{
+   "Questions":[
+      {
+         "Question":"What is the capital of France",
+         "OptionA":"Madrid",
+         "OptionB":"Paris",
+         "Answer":"B"
+      },
+      {
+         "Question":"What is the capital of England",
+         "OptionA":"London",
+         "OptionB":"Paris",
+         "Answer":"A"
+      },
+      {
+         "Question":"What is the capital of USA",
+         "OptionA":"New York",
+         "OptionB":"Washington",
+         "Answer":"B"
+      },
+      {
+         "Question":"What is the capital of Argentina",
+         "OptionA":"Buenos Aires",
+         "OptionB":"Santiago",
+         "Answer":"A"
+      },
+      {
+         "Question":"What is the capital of Mexico",
+         "OptionA":"Montreal",
+         "OptionB":"Mexico City",
+         "Answer":"B"
+      },
+      {
+         "Question":"What is the capital of Italy",
+         "OptionA":"Rome",
+         "OptionB":"Paris",
+         "Answer":"A"
+      },
+      {
+         "Question":"What is the capital of Los Angeles",
+         "OptionA":"Madrid",
+         "OptionB":"LA is not a country",
+         "Answer":"B"
+      },
+      {
+         "Question":"What is the capital of Rusia",
+         "OptionA":"Madrid",
+         "OptionB":"Moscow",
+         "Answer":"B"
+      }
+   ]
+}
